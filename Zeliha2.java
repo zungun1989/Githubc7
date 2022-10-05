@@ -6,16 +6,6 @@ public class Zeliha2 {
         for
         loginPage
          */
-
-        /*
-        Some
-        codes
-        for
-        landingPage
-         */
-
-
-
     }
 }
 
