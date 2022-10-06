@@ -1,1 +1,2 @@
 zeliha
+bu bir calisma dosyasidir
